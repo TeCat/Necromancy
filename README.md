@@ -1,2 +1,2 @@
 # Necromancy
-Necromancy Mod for Minecraft.
+WIP Necromancy Mod for Minecraft
